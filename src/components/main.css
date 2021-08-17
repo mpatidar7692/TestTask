@@ -1,0 +1,17 @@
+
+.form-div{
+    height: auto;
+    margin: 5% 5% 0% 35%;
+    width: 30%;
+}
+.errors{
+    margin-top: 0px;
+    font-size: 15px;
+    color: red;
+}
+.MuiInputBase-input{
+    padding: 25px 0 7px;
+}
+.add-user-button{
+    margin-top:5%;
+}
